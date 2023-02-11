@@ -1,0 +1,5 @@
+
+    Comandos
+
+git add .
+    - agregar todos los archivos al área stage
