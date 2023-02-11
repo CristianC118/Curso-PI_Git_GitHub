@@ -1,0 +1,26 @@
+
+    Comandos
+
+1 - git init:
+	* Solo se ejecuta una vez y es al comenzar el proyecto o cuando necesitemos que git haga un seguimiento del proyecto.
+	* crea dos áreas:
+		. Área de ensayo (Staging area):
+			es un área temporal, saber en que estado se encuentran los archivos
+		. Área de Repositorio local:
+			donde se almacenan las copias
+
+2 - git add (+ nombre_archivo):
+	* sirve para indicar que archivos son los que estarán en seguimiento
+
+3 - git commit -m "Aquí va el mensaje":
+	* lleva los archivos del área de ensayo al Repositorio
+
+4 - git status -s:
+	* nos da un listado con todos los archivos y directorios que tenemos de momento en la caperta del proyecto.
+	* los interrogantes en rojo nos dicen que ninguno está recibiendo seguimiento por parte de Git.
+
+5 - git log --oneline:
+	* nos da el listado de cambios/copias que hemos hecho
+
+6 - git reset --hard (+ código del cambio):
+	* devuelve a la versión que hayamos elegido
