@@ -10,3 +10,6 @@ git push
 git pull
     - se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al
     instante el repositorio local para reflejar ese contenido
+
+git commit -am
+    - sirve para hacer commit y add al mismo tiempo
