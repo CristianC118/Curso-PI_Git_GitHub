@@ -8,3 +8,6 @@ Creación de otra rama para ver como cambian los archivos y datos cuando se inde
 
 Creación de Ramas con VSCode
 
+git branch -d "Nombre de la rama"
+    - elimina una rama
+
