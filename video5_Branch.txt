@@ -5,3 +5,14 @@
 Línea de tiempo
 
 Se pueden crear más de una rama/ branch
+
+  Comandos
+
+git branch "nombre de la Rama"
+    - creación de una Rama/Branch nueva
+
+git branch
+    - vemos el listado de Ramas y en cuál estamos
+
+git checkout "nombre de la rama"
+    - cambiamos de rama
