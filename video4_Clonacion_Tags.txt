@@ -2,3 +2,11 @@
 
     Comandos
 
+git tag "Nombre a identificar" -"Descripción"
+    crear tag
+
+git push --tags
+    para subir el tag
+
+git clone "+ link proyecto"
+    sirve para bajar/clonar un repositorio
