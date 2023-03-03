@@ -1,0 +1,18 @@
+
+
+    VSCode con GitHub - Subiendo y Sincronizando proyecto.
+
+  Crear nuevo repositorio
+
+  Fijarse en la URL
+
+  Ir a VSCode
+
+  Command Palet
+
+  Git Clone from GitHub
+
+  Introducir la URL del Repositorio
+
+  Elegir carpeta donde estará
+
