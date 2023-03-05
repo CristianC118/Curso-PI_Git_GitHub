@@ -24,3 +24,4 @@
 
 6 - git reset --hard (+ código del cambio):
 	* devuelve a la versión que hayamos elegido
+
